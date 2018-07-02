@@ -1,0 +1,10 @@
+C:\Users\clayton.errington\source\repos\UAC Control\bin\Debug\UAC Control.exe.config
+C:\Users\clayton.errington\source\repos\UAC Control\bin\Debug\UAC Control.exe
+C:\Users\clayton.errington\source\repos\UAC Control\bin\Debug\UAC Control.pdb
+C:\Users\clayton.errington\source\repos\UAC Control\obj\Debug\UAC_Control.Form1.resources
+C:\Users\clayton.errington\source\repos\UAC Control\obj\Debug\UAC_Control.Properties.Resources.resources
+C:\Users\clayton.errington\source\repos\UAC Control\obj\Debug\UAC Control.csproj.GenerateResource.cache
+C:\Users\clayton.errington\source\repos\UAC Control\obj\Debug\UAC Control.csproj.CoreCompileInputs.cache
+C:\Users\clayton.errington\source\repos\UAC Control\obj\Debug\UAC Control.exe
+C:\Users\clayton.errington\source\repos\UAC Control\obj\Debug\UAC Control.pdb
+C:\Users\clayton.errington\source\repos\UAC Control\obj\Debug\UAC Control.csprojAssemblyReference.cache
