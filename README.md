@@ -1,4 +1,4 @@
-# CSharp
+# C#
 A collection of the C# apps I've made. 
 
 ## UAC Control
